@@ -2,9 +2,9 @@
 
 ## About the Project
 
-CAR-V2V is a congestion-aware routing system designed for **Vehicle-to-Vehicle (V2V) communication** in dense urban traffic.
+CAR-V2V is a congestion-aware routing system designed for Vehicle-to-Vehicle (V2V) communication in dense urban traffic.
 
-It selects efficient multi-hop routes by considering **network congestion, link quality, and vehicle conditions**.
+It selects efficient multi-hop routes by considering network congestion, link quality, and vehicle conditions.
 
 ## Key Features
 
@@ -24,6 +24,14 @@ It selects efficient multi-hop routes by considering **network congestion, link 
 - Recharts
 - Lucide React
 
-## Project Goal
+## Team Members
 
-To improve **route reliability, reduce communication delay, and avoid congested paths** in dynamic V2V networks.
+- **Dinesh Karthick N** — 2024503038
+- **Jai Kumaran S** — 2024503052
+- **Anwin Shellman J** — 2024503532
+- **Madhumitha S** — 2024503032
+
+## Institution
+
+**Department of Computer Technology**  
+Madras Institute of Technology, Anna University, Chennai
