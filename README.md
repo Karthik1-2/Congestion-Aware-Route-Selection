@@ -51,7 +51,7 @@ Project Goal
 To improve packet delivery, reduce communication delay and packet loss, and provide reliable routing in highly dynamic and congested V2V networks.
 
 Team Members
-Dinesh Karthick N — 2024503038
+Dinesh Karthik N — 2024503038
 Jai Kumaran S — 2024503052
 Anwin Shellman J — 2024503532
 Madhumitha S — 2024503032
